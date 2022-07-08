@@ -1,0 +1,13 @@
+*{margin: 0;padding: 0;box-sizing: border-box;font-family: Inter;}
+
+html,body{
+    min-height: 100%;
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(116.82deg, #4776E6 0%, #ED4264 100%);
+}
